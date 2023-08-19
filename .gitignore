@@ -1,0 +1,24 @@
+# .gitignore
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore the contents of the output folder
+output/*
+!output/.gitkeep
