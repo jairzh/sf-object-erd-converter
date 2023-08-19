@@ -2,6 +2,9 @@
 
 A script to convert Salesforce objects and fields into an Entity-Relationship Diagram (ERD) using Mermaid.
 
+Here the ERD for the [eBikes sample app](https://github.com/trailheadapps/ebikes-lwc):
+![Sample ERD](ebikes-lwc-erd.png)
+
 ## Installation
 
 You will need Python to run this script. Install the required packages using the following command:
